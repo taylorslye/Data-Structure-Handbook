@@ -13,8 +13,6 @@ With this knowledge, programs created can be degrees faster and more efficient.
 * Linked List
 * Binary Search Tree
 * Min Heap
-* Priority Queue
-* Deque
 * Stack
 * Queue
 * Priority Queue
