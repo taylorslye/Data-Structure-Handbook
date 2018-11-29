@@ -22,9 +22,14 @@ A deque is terrible when data needs to be sorted, or if data in the middle needs
 
 ## Example
 exdeque = deque()
+
 for i in range(3):
+
 	exdeque.backpush(i)
+
 exdeque.frontpush(0)
+
 firstinline = exdeque.frontpop()
+
 lastinline = exdeque.backpop()
 
