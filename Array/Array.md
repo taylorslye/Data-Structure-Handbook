@@ -19,6 +19,9 @@ An array is terrible when data needs to be sorted, inserted, deleted, or have a 
 
 ## Example
 examplearray = ["red", "blue", "green"]
+
 second = examplearray[1]
+
+
 examplearray[2] = "yellow"
 print(examplearray)
